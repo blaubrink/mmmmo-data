@@ -1,0 +1,387 @@
+id,signature,year (map),order,library,category (desc),date (desc),location (desc),extract (desc),description,hsc,catalog,digital copy,additional info,origin,radius,long,lat
+lt1,"Augsburg, Staats- und Stadtbibliothek, 8° Cod. 203",1510,Kartäuser,"Augsburg, Staats- und Stadtbibliothek",Gebetbuch,1. Viertel 16. Jh.,"Süddeutschland; Kartause 
+Buxheim (Vorbesitzer)","57v-64r: III, 51, 47; IV, 6, 7, 15, 25; I, 19
+64v-66r: V, 18 (?) (laut Katalog abweichende Fassung)",,–,"Trede, Juliane/Gehrt, Wolf: Die Handschriften der Staats- und Stadtbibliothek Augsburg. 
+8° Cod. 1-232 (Handschriftenkataloge der Staats- und Stadtbibliothek Augsburg VIII), 
+Wiesbaden 2011, S. 359-361.",–,–,,,10.13400,48.00000
+lt2,"Avignon, Bibliothèque Municipale, Cod. 355",1512,Unbekannt,"Avignon, Bibliothèque Municipale",MH als Haupttext,16. Jh.,–,größerer Bestand (f. 1r-101v),,–,"Catalogue général des manuscrits des bibliothèques, Tom. XXVII, 
+S. 273.",–,–,,200.00,4.03320,44.51940
+lt3,"Basel, Universitätsbibliothek, Cod. A V 54e",1415,Unbekannt,"Basel, Universitätsbibliothek",Einzelne Lage,1. Hälfte 15. Jh. ,–,"3r: I, 47",,–,https://www.e-codices.unifr.ch/en/description/ubb/A-V-0054e/HAN,https://www.e-codices.unifr.ch/en/searchresult/list/one/ubb/A-V-0054e,–,,30.00,7.63680,47.56850
+lt4,"Basel, Universitätsbibliothek, Cod. A VII 68",1405,Kartäuser,"Basel, Universitätsbibliothek","Gebete, Andachtstexte",15. Jh.,Kartause Basel,"254v-255r: I, 47
+272r-274r: LD VI, 14c (2. Abschnitt) (FL VI, 37)
+272r (Rand): LD VI, 14f (FL VI, 27)
+274r: III, 1 (Mittelabschnitt) (FL VI, 3)",,–,https://www.e-codices.unifr.ch/de/description/ubb/A-VII-0068/HAN,https://www.e-codices.unifr.ch/de/list/one/ubb/A-VII-0068,–,,,7.59710,47.55840
+lt5,"Basel, Universitätsbibliothek, Cod. A IX 3",1510,Kartäuser,"Basel, Universitätsbibliothek",MH als Haupttext,1512,Kartause Basel,I-VI,,–,https://aleph.unibas.ch/F/5JEI4B4IA5FJSNYXAPGHGNEVKGAXLK67BPSYMUU4KB2CCAGNRX-17178?func=find-b&find_code=WRD&request=%22A+IX+3%22&x=0&y=0&adjacent=N,–,–,,,7.59710,47.55840
+lt6,"Basel, Universitätsbibliothek, Cod. A IX 34",1490,Kartäuser,"Basel, Universitätsbibliothek","Wohl erst als Einzeltext, 
+jetzt zusammen in 
+Sammelhandschrift",Ende 15. Jh.,Kartause Basel,66r-275r: I-V,,–,https://archive.org/stream/p1diehandschrift01univuoft#page/138/mode/2up,–,–,,,7.59710,47.55840
+lt7,"Basel, Universitätsbibliothek, Cod. A X 94",1470,Kartäuser,"Basel, Universitätsbibliothek",Sammelhandschrift,1473,Kartause Basel,"43v: IV, 56 (Teil)",,–,https://aleph.unibas.ch/F/5HA1F3U4GUX8U4CRNVN6BYJPTD9Q6VBRKRUT47V7X9CVL1NV1V-19112?func=find-b&find_code=WRD&request=%22A+X+94%22&x=0&y=0&adjacent=N,–,Schreiber Iohannes Gipsmüller,,,7.59710,47.55840
+lt8,"Basel, Universitätsbibliothek, Cod. A X 95",1520,Kartäuser,"Basel, Universitätsbibliothek",Gebetbuch,1523,Kartause Basel,"223r-224r: III, 17 (ohne letzten Absatz)",,–,https://aleph.unibas.ch/F/FHQIV6U8ISX5CEQSTIY4KFH1C4C4ENFFP3CULI8H9KC6VNPFQ4-19845?func=find-b&find_code=WRD&request=%22A+X+95%22&x=0&y=0&adjacent=N,–,–,,,7.59710,47.55840
+lt9,"Basel, Universitätsbibliothek, Cod. A X 96",1460,Kartäuser,"Basel, Universitätsbibliothek",Sammelhandschrift,1467 /  Ende 15. Jh.,Kartause Basel,"175r: IV, 56 (Teil)",,–,https://aleph.unibas.ch/F/5GVJS372D63BG3HCKK6BYEVHTCL7SBVAYXVETQ5GY51X7N7LS6-20359?func=full-set-set&set_number=792779&set_entry=000001&format=999,–,–,,,7.59710,47.55840
+lt10,"Basel, Universitätsbibliothek, Cod. A XI 62",1405,Unbekannt,"Basel, Universitätsbibliothek","Sammelhandschrift (Kurztraktate, Gebete)",15. Jh.,–,91v-92r,,–,https://aleph.unibas.ch/F/FBU5H2HB7BF1RCV9L46SFCH6MQ76TN76E87PALITJXEJBY6JEX-20806?func=full-set-set&set_number=792784&set_entry=000003&format=999,–,–,,50.00,7.53680,47.86850
+lt11,"Basel, Universitätsbibliothek, Cod. B X 24",1480,Kartäuser,"Basel, Universitätsbibliothek","Sammelhandschrift; Meditationen
+und Gebete",1484,Kartause Basel,"23r-v: Exzerpt aus I, 46",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0503b_b0646_jpg.htm,–,–,,,7.59710,47.55840
+lt12,"Basel, Universitätsbibliothek, Cod. B X 36",1470,Kartäuser,"Basel, Universitätsbibliothek","Sammelhandschrift; Meditationen
+und Legenden",2. Hälfte 15. Jh.,Kartause Basel,"140r-200r: größere Exzerptmenge
+",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0503b_b0780_jpg.htm,–,Katalog vermerkt als Datierung „ca. 1400“,,,7.59710,47.55840
+lt13,"Berlin, Staatsbibliothek, Ms. germ. oct. 17",1470,Dominikaner,"Berlin, Staatsbibliothek","Andachten, dt.-lat. ",2. Hälfte 15. Jh. ,"St. Nikolaus in undis, Straßburg, 
+Dominikanerinnen","23v-24v: I, 47",,http://www.handschriftencensus.de/9174,"Hornung, Hans: Daniel Sudermann als Handschriftensammler. Ein Beitrag zur Straßburger 
+Bibliotheksgeschichte, Diss. (masch.) Tübingen 1956, S. 140-142.",–,–,,3.00,7.76170,48.58060
+lt14,"Berlin, Staatsbibliothek, Ms. germ. oct. 194",1405,Unbekannt,"Berlin, Staatsbibliothek",Lat.-dt. Andachtsbuch,15. Jh. ,–,"66r-272r: kurze dt. und lat. Andachtstexte, darunter auch 
+MH-Exzerpt",,http://www.handschriftencensus.de/9218,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0603c_b066_jpg.htm,–,"Degering gibt nicht an, ob das Exzerpt in 
+rheinfränkischer oder lateinischer Sprache 
+dargeboten wird.",,120.00,7.33110,51.07580
+lt15,"Berlin, Staatsbibliothek, Ms. lat. qu. 779",1430,Kartäuser,"Berlin, Staatsbibliothek",MH als Einzeltext,1438,Kartause Buxheim,"1r-134v, wohl Buch I-V",,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22obj%2031019608%22&dmode=doc#|4,–,–,,,10.13400,48.00000
+lt16,"Berlin, Staatsbibliothek, Ms. theol. lat. oct. 103",1470,Unbekannt,"Berlin, Staatsbibliothek",Lat.-dt. Gebet- und Andachtsbuch,1497,Mittelrhein (?),"170v–175r: I, 1, 19e",,http://www.handschriftencensus.de/23128,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22hsk%200651%22&dmode=doc#|4,–,–,,40.00,7.60210,50.31180
+lt17,"Berlin, Staatsbibliothek, Ms. theol. lat. oct. 176",1460,Benediktiner,"Berlin, Staatsbibliothek",Theologische Sammelhandschrift,2./3. Viertel 15. Jh.,"Bursfeld, Benediktiner","22v–23r: V, 16",,–,http://www.manuscripta-mediaevalia.de/#|6,–,"MH-Abschnitt auch in Wolfenbüttel, Cod. 422 Helmst.",,,9.62440,51.54150
+lt18,"Berlin, Staatsbibliothek, Ms. theol. lat. qu. 324/1",1505,Kartäuser,"Berlin, Staatsbibliothek","Heinrich Arnoldi von Alfeld, Liber meditationum et 
+orationum",1505,Kartause Buxheim,"217r–218r: I, 46",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0009_a121_jpg.htm,–,–,,,10.13400,48.00000
+lt19,"Bonn, Universitätsbibliothek, Cod. S 301",1480,Zisterzienser,"Bonn, Universitätsbibliothek",MH als Einzeltext,1486/1500,"St. Maria in Sion, Köln, Zisterzienserinnen",Buch I-V (gekürzt),,–,http://www.manuscripta-mediaevalia.de/dokumente/html/sigrefsBonn|||Universitäts- und Landesbibliothek Bonn|||S 301,–,–,,,6.96170,50.92800
+lt20,"Bonn, Universitätsbibliothek, Cod. S 361",1450,Augustiner,"Bonn, Universitätsbibliothek","Theologische Sammelhandschrift, Gebete",Mitte 15. Jh.,"Niederwerth, Augustiner-Chorherrenstift","226ra–245ra: I, la, 12, 13, 14, 5b, c, d, 7, 8b, 
+10a+b, 11, 12, 13a, 15, 16a, 18a, b, c, 
+19a, e, 20, 22a+b, 23, 24; IV, 60; III, 1;
+I, 25b, 26a, c, 34a, 29, 30, 38, 31a, 
+34b+c; III, 39; I, 35, 37, 42, 43, 44, 47; 
+II, 1, 2, 3, 10, 17, 21, 22, 25, 29a, 33, 34b, 
+40, 41; III, 2, 4 , 6a+b, 8, 10, 14, 16, 17, 18, 
+19, 20, 21, 22, 23a, 24, 25, 26, 27, 29, 31, 
+32, 33, 36, 34, 35, 44, 45, 46, 48, 50, 51; 
+IV 1, 5,7, 9, 16, 17, 23, 25, 26, 28, 30, 33, 
+36, 37, 38, 45, 47, 51, 52, 53, 58, 28, 54, 
+56, 58, 59a-d V, 1, 16, 17, 18a, 27; IV, 15; 
+V, 18b, 19, 23, 30; III, 52; IV, 6; V, 20",,–,http://www.manuscripta-mediaevalia.de/#|6,–,–,,,7.61340,50.39270
+lt21,"Brüssel, Bibliothèque Royale, Ms. 1507/9",1405,Kartäuser,"Brüssel, Bibliothèque Royale",Sammelhandschrift; Kartäuserpredigten,15. Jh.,"Kartause St. Martin bei Geraardsbergen 
+(„Grammont“), Flandern","171ra-174vb: I, 18a (Abschnitt); zwischendrin 
+Text nicht von MH",,http://handschriftencensus.de/16444,https://archive.org/stream/cataloguedesman08manugoog#page/n250/mode/2up,–,–,,,3.82240,50.80400
+lt22,"Brüssel, Bibliothèque Royale, Ms. 5004/8",1405,Unbekannt,"Brüssel, Bibliothèque Royale","Sammelhandschrift, v.a. Bonaventura, Augustinus",15. Jh.,–,"159r-v: I, 18c (Ezerpt)",,–,–,–,–,,200.00,4.14584,50.95150
+lt23,"Brüssel, Bibliothèque Royale, Ms. 9320/4",1430,Unbekannt,"Brüssel, Bibliothèque Royale",Sammelhandschrift (?),1432,–,"1v: V, 19 (Exzerpt)",,–,–,–,Schreiber Jacobi Utenham,,200.00,4.64584,50.25150
+lt24,"Brüssel, Bibliothèque Royale, Ms. II 1168",1405,Kartäuser,"Brüssel, Bibliothèque Royale",Sammelhandschrift (?),15. Jh.,Kartause Köln,157r-193r (Exzerpte),,–,–,–,–,,,6.95550,50.92460
+lt25,"Brüssel, Bibliothèque Royale, Ms. II 1561",1405,Unbekannt,"Brüssel, Bibliothèque Royale",Sammelhandschrift (?),15. Jh.,–,"5r-53v: I, 24 (5r), I, 31b (5v), I, 36 (6r), I, 37 (7r), I, 37 
+(7v), I, 37 (7v), I, 38 (8r), I, 39 (8r), I, 41 (8v), I, 42 (8v), 
+I, 43 (9r), I, 44 (9v), I, 45 (9v), I, 46 (11v), I, 2 (12r), I, 
+31 (12r), I, 32 (12r), I, 41 (12v), I, 42 (12v), I, 5b (13v), 
+I, 5a (14r), I, 5d (15v), I, 6a (16v), I, 6b (17r), I, 6c (17v), 
+I, 7 (17v), I, 8b (18v), I, 9a (19v), I, 9b (20r), I, 10a (20v), 
+I, 10c (21v), I, 14 (21v), I, 15 (22v), I, 16a (23r), I, 16b 
+(23v), I, 17 (23v), I, 18ab (24v-26r), I, 18c (26r), I, 18d 
+(29r), I, 18e (29v), I, 19a (29v), I, 19b (30r), I, 19c (30v), 
+I, 19d (32r)",,–,"Bromberg, Richard L.: Het boek der bijzondere genade van Mechthild van Hackeborn, Zwolle 1967, 
+S. 17",–,–,,200.00,4.36710,50.69150
+lt26,"Budapest, Nationalbibliothek, Cod. Lat. 276",1460,Unbekannt,"Budapest, National Széchényi Library","Sammelhandschrift, darin Haimo-Apokalypse",1462/3,Augsburg (?),"254v: I, 18a, mit Schluss von 18b",,–,–,–,"laut Zieger auf f. 154v Randnotiz von „Leonhart 
+Radamer und Vörich arztt“; 
+1470 wird der Tod der Radamer-Tochter beklagt",,5.00,10.88970,48.36650
+lt27,"Cambrai, Bibliothèque Municipale, Cod. 844 (749)",1405,Zisterzienser,"Cambrai, Bibliothèque Municipale",Sammelhandschrift (auch Liutgard-Vita),Ende 15. Jh.,"Aywiers, Zisterzienserinnen (?)",29v-123v,,–,"Catalogue général des manuscrits des bibliothèques, Tom. XVII, S. 326f.",–,"Geschenk der Äbtissin an einen ‚frater supprior‘; 
+MH als Zisterzienserin; Schreiber nennt sich 
+'Egidium Herdewiick'; dieser hat laut Explicit 
+den Text im Jahr 1400 abgeschrieben",,0.10,4.46990,50.66910
+lt28,"Cambridge, Peterhouse, Ms. 276",1400,Kartäuser,"Cambridge, Peterhouse","Sammelhandschrift; Psalter, Gebete, 
+geistliche Kurztexte",14./15. Jh.,"Coventry, Kartause St Anne (?)","6v-7r: V, 6 (1. Teil); I, 5d; IV. 23",,–,https://archive.org/stream/adescriptivecat00clargoog#page/n384/mode/2up,–,–,,,-1.49480,52.40110
+lt29,"Charleville, Bibliothèque Municipale, Cod. 85b",1405,Unbekannt,"Charleville-Mézieres, Bibliothèque Municipale", MH als Einzeltext (?),15. Jh.,Flandern,9r-92r (I-V?),,–,"Catalogue général des manuscrits des bibliothèques, Tom. V, S. 584f.",–,„Egidius de Wallebruna“ (professus montis dei),,70.00,4.18180,51.03570
+lt30,"Colmar, Bibliotheque Municipale, Hs. 27",1505,Sonstiges,"Colmar, Bibliothèque Municipale",Andachtsbuch,16. Jh.,"Isenheim (Elsaß), Antoniter ","111v: I, 47",,–,"Catalogue général des manuscrits des bibliothèques, Tom. LVI, S. 73",–,–,,,7.24990,47.90230
+lt31,"Colmar, Bibliotheque Municipale, Hs. 250",1405,Dominikaner,"Colmar, Bibliothèque Municipale","Sammelhandschrift, v.a. Marienpredigten und 
+Ps.-Bonaventura ",15. Jh.,"Guebwiller, Dominikaner",66v-67: Bestand unbekannt,,–,"Catalogue général des manuscrits des bibliothèques, Tom. LVI, S. 22",–,–,,,7.21410,47.90790
+lt32,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 971",1520,Kartäuser,"Darmstadt, Universitäts- und Landesbibliothek",Flores ex revelationes Gertrudis et Mechthildis,1528,"St. Barbara, Köln","1r–25r, 27r–114r, 115r–178r: Verschiedene Gebete und 
+Sentenzen des Liber thematisch neu zusammengestellt",,–,http://www.manuscripta-mediaevalia.de/#|6,–,–,,,6.95540,50.92460
+lt33,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 1228",1470,Kartäuser,"Darmstadt, Universitäts- und Landesbibliothek","Gebetbuch; verschiedene Gebete und Andachte, 
+auch Gerson, Birgitta etc.",ca. 1470,Kartause Wesel,"102r: V, 6 (1. Teil)",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0014_b040_jpg.htm,–,–,,,6.45460,51.66300
+lt34a,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 2242",1305,Unbekannt,"Darmstadt, Universitäts- und Landesbibliothek",Gebetbuch,14. Jh.,"wsl. Diözese Utrecht; später 
+Kartause St. Barbara, Köln ","125r-127vb: Einleitung, I, 10b + c,11, 12",,http://handschriftencensus.de/7011,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0014_b027_jpg.htm,–,"MH als Zisterzienserin bezeichnet; Trotz 
+Exzerptüberlieferung Überblick über 
+das gesamte Werk;
+",,4.00,5.12000,52.08880
+lt34b,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 2242",1405,Kartäuser,"Darmstadt, Universitäts- und Landesbibliothek",Gebetbuch,15. Jh,"wsl. Diözese Utrecht; später 
+Kartause St. Barbara, Köln ","125r-127vb: Einleitung, I, 10b + c,11, 12",,http://handschriftencensus.de/7011,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0014_b027_jpg.htm,–,"MH als Zisterzienserin bezeichnet; Trotz 
+Exzerptüberlieferung Überblick über 
+das gesamte Werk;
+",,,6.95550,50.92460
+lt35,"Dublin, Trinity College, Ms. 159",1475,Unbekannt,"Dublin, Trinity College","Sammelhandschrift, v.a. Richard Rolle",2. Hälfte 15. Jh.,England,"123, 132, 138, 144v: Exzerpte ",,–,"M. L. Colker, Trinity College Library Dublin: Descriptive Catalogue 
+of the Mediaeval and Renaissance Latin Manuscripts, Aldershot 1991, S. 159.",–,–,,250.00,-0.96870,52.96580
+lt36,"Dublin, Trinity College, Ms. 277",1470,Unbekannt,"Dublin, Trinity College","Sammelhandschrift, geistliche Kurztexte 
+(Birgitta, Bonaventura, Seuse, etc.)",Mitte 15. Jh.,–,"S. 533: III, 26, 19",,–,"https://archive.org/stream/cataloguemanusc00abbogoog#page/n72/mode/2up;
+M. L. Colker, Trinity College Library Dublin: Descriptive Catalogue 
+of the Mediaeval and Renaissance Latin Manuscripts, Aldershot 1991, S. 529.",–,–,,200.00,-7.42280,53.51260
+lt37,"Durham, Universitätsbibliothek, Cod. V.III.16",1405,Unbekannt,"Durham, University Library","Sammelhandschrift, Visionen",15. Jh.,–,175b-177b (?),,–,–,–,–,,150.00,-1.92960,54.41730
+lt38,"Düsseldorf, Landes- und Staatsbibliothek, Ms. B 147",1475,Unbekannt,"Düsseldorf, Landes- und Staatsbibliothek","Johannes Gerson Thomas a Kempis, 
+Hugo von St. Viktor u.a.",3. Viertel 15. Jh.,Niederrhein,"54r: I, 18",,–,"Agata Mazurek, Die mittelalterlichen Handschriften der Signaturengruppe B in der Universitäts- und 
+Landesbibliothek Düsseldorf, Teil 2, Wiesbaden 2011, S. 179–191.",–,–,,40.00,6.55720,51.35270
+lt39,"Düsseldorf, Landes- und Staatsbibliothek, Ms. B 156",1505,Unbekannt,"Düsseldorf, Landes- und Staatsbibliothek","Wilhelm von St. Thierry Bernhard von Clairvaux, 
+Thomas a Kempis u.a.",um 1505,Niederrhein (?),"100r: I, 17",,–,"Agata Mazurek, Die mittelalterlichen Handschriften der Signaturengruppe B in der Universitäts- und 
+Landesbibliothek Düsseldorf, Teil 2, Wiesbaden 2011, S. 203–210.",–,–,,40.00,6.55720,51.35270
+lt40,"Düsseldorf, Landes- und Staatsbibliothek, Ms. B 193",1470,Kreuzherren,"Düsseldorf, Landes- und Staatsbibliothek",Theol. Sammelhandschrift,1489,"Marienfrede, Kreuzherrenkonvent",112va-230ra: I-V,,–,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4041846,http://digital.ub.uni-duesseldorf.de/ms/content/titleinfo/8868657,"MH als Zisterzienserin; Schreiber Lambertus de 
+Xanctis; enger Bezug zu den Kölner Hss. aus 
+dem Kreuzherrenkonvent",,,6.59160,51.77170
+lt41a,"Düsseldorf, Landes- und Staatsbibliothek, Ms. C 67",1530,Kreuzherren,"Düsseldorf, Landes- und Staatsbibliothek",Orationale,nach 1534,"St. Agatha (bei Cuijk),
+Kreuzherrenkonvent; 
+später Marienfrede, Kreuzherrenkonvent","106v–109v: I, 19e",,–,http://www.manuscripta-mediaevalia.de/#|6,–,–,,,5.91710,51.71320
+lt41b,"Düsseldorf, Landes- und Staatsbibliothek, Ms. C 67",1605,Kreuzherren,"Düsseldorf, Landes- und Staatsbibliothek",Orationale,17. Jh.,"St. Agatha (bei Cuijk),
+Kreuzherrenkonvent; 
+später Marienfrede, Kreuzherrenkonvent","106v–109v: I, 19e",,–,http://www.manuscripta-mediaevalia.de/#|6,–,–,,,6.59160,51.77170
+lt42,"Düsseldorf, Landes- und Staatsbibliothek, Ms. C 89",1560,Zisterzienser,"Düsseldorf, Landes- und Staatsbibliothek",lat.-dt. Gebetbuch,um 1566,"Brabant, Zisterzienserinnen","161r–163r: I, 19e",,http://www.handschriftencensus.de/12759,https://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4041885,–,–,,50.00,5.14000,51.58970
+lt43,"Ebstorf, Klosterbibliothek, Mss. IV, 4",1515,Benediktiner,"Ebstorf, Klosterbibliothek",lat.-dt. Gebetbuch,1. Viertel 16. Jh.,"Ebstorf, Benediktinerinnen","157r: I, 34c (?)
+172r: I, 19e
+356av: Exzerpt 
+",,http://www.handschriftencensus.de/5622,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0441_c005_jpg.htm,–,–,,,10.41210,53.03030
+lt44,"Ebstorf, Klosterbibliothek, Mss. IV, 5",1505,Benediktiner,"Ebstorf, Klosterbibliothek",lat.-dt. Gebetbuch,um 1500,"Ebstorf, Benediktinerinnen","185r: I, 19e",,http://www.handschriftencensus.de/5623,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0441_c021_jpg.htm,–,–,,,10.41210,53.03030
+lt45,"Ebstorf, Klosterbibliothek, Mss. IV, 13",1530,Zisterzienser,"Ebstorf, Klosterbibliothek",lat.-dt. Gebetbuch,1. Hälfte 16. Jh.,"evtl. Wienhausen, 
+Zisterzienserinnen","265v: I, 19e",,http://www.handschriftencensus.de/3181,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0441_c060_jpg.htm,–,–,,,10.18530,52.58090
+lt46,"Ebstorf, Klosterbibliothek, Mss. IV, 15",1480,Zisterzienser,"Ebstorf, Klosterbibliothek",lat.-dt. Gebetbuch,3. Viertel 15. Jh.,"evtl. Wienhausen, 
+Zisterzienserinnen","27r: I, 19e",,http://www.handschriftencensus.de/10698,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0441_c072_jpg.htm,–,–,,,10.18530,52.58090
+lt47,"Ebstorf, Klosterbibliothek, Mss. IV, 17",1440,Benediktiner,"Ebstorf, Klosterbibliothek",lat.-dt. Gebetbuch,2. Viertel 15. Jh.,"Ebstorf, Benediktinerinnen","12v: I, 19e
+124r: I, 19e",,http://www.handschriftencensus.de/10699,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0441_c083_jpg.htm,–,–,,,10.41210,53.03030
+lt48,"Eisleben, Stiftung Luthergedenkstätten, H 546",1360,Kartäuser,"Eisleben, Stiftung Luthergedenkstätten",–,1361,"Kartause Erfurt (gibt es aber erst 
+seit 1372, dann aber dort 
+im Besitz)",–,,,"vgl. Nemes (2010), S. 225-230.",–,–,,,11.02680,50.96980
+lt49,"Erlangen, Universitätsbibliothek, Ms. 338",1320,Zisterzienser,"Erlangen, Universitätsbibliothek","‚Komplett‘, mit Register",nach 1320,"Heilsbronn, Zisterzienser","I, 1-V, 32",,–,–,–,"Eintrag (289v): ""Liber iste Sancte dei genitricis Marie 
+in Monasterio fontissalutis""
+(Heilsbronn) est“ (15. Jh.)",,,10.79210,49.33840
+lt50,"Erlangen, Universitätsbibliothek, Ms. 339",1450,Zisterzienser,"Erlangen, Universitätsbibliothek",‚Komplett‘ mit Register,ca. Mitte 14. Jh.,"Heilsbronn, Zisterzienser","I, 1-V, 32 (im Vergleich zu Ms. 338 jedoch in Buch II und 
+V je ein Kapitel mehr)",,–,–,–,"Eintrag (289v): ""Iste liber est
+Marie virginis in fonte salutis""
+ (14. Jh.)
+„Liber Beatissime virginis 
+Marie in Halsprunn“ (15. Jh.)",,,10.79210,49.33840
+lt51a,"Frankfurt, Universitätsbibliothek, Ms. Praed. 169",1490,Zisterzienser,"Frankfurt, Universitätsbibliothek",Dt.-lat. Gebetbuch,um 1490,"Nonnenkloster am Niederrhein 
+(wsl. Zisterzienserinnen?); 
+später Frankfurt, Dominikaner","94v–96v: I,47 (md.); 317r-318r: I, 5d, b (lat.)",,http://handschriftencensus.de/15062,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0017_b372_jpg.htm,http://nbn-resolving.de/urn:nbn:de:hebis:30:2-43909,"Illuminationen und Verzierungen im 
+Gebetszyklus; auch Zeichnungen von 
+Wundmalen mit Gebeten",,40.00,7.60210,50.31180
+lt51b,"Frankfurt, Universitätsbibliothek, Ms. Praed. 169",1551,Dominikaner,"Frankfurt, Universitätsbibliothek",Dt.-lat. Gebetbuch,um 1490,"Nonnenkloster am Niederrhein 
+(wsl. Zisterzienserinnen?); 
+später Frankfurt, Dominikaner","94v–96v: I,47 (md.); 317r-318r: I, 5d, b (lat.)",,http://handschriftencensus.de/15062,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0017_b372_jpg.htm,http://nbn-resolving.de/urn:nbn:de:hebis:30:2-43909,"Illuminationen und Verzierungen im 
+Gebetszyklus; auch Zeichnungen von 
+Wundmalen mit Gebeten",,,8.68750,50.11230
+lt52,"Fribourg, Franziskanerkloster, Cod. 144",1475,Unbekannt,"Fribourg, Bibliothèque des Cordeliers",Gebetbuch,2. Hälfte 15. Jahrhundert,"Süddeutschland, evtl. Salzburg (?)","25r: IV, 56 (Teil)",,–,"Leisibach, Joseph: Die liturgischen Handschriften des Kantons Freiburg, Teil II Freiburg 1977, S. 123-128.",–,Gebet Birgitta zugeschrieben,,100.00,13.04040,47.79940
+lt53,"Gießen, Universitätsbibliothek, Hs. 786",1480,Sonstiges,"Gießen, Universitätsbibliothek",Aszetische Sammelhandschrift,2. Viertel 15. Jh. (ca. 1488),"Butzbach, St. Markus, Fraterherrenstift","273r: III, 29",,–,http://geb.uni-giessen.de/geb/volltexte/2004/1833/pdf/OttJoachim-Handschriftenkatalog.pdf,–,–,,,8.67370,50.43510
+lt54,"Gießen, Universitätsbibliothek, Hs. 817",1420,Sonstiges,"Gießen, Universitätsbibliothek",Theologische Sammelhandschrift,1. Viertel 15. Jh.,"Butzbach, St. Markus, Fraterherrenstift","64r-v: III, 5",,–,http://geb.uni-giessen.de/geb/volltexte/2004/1833/pdf/OttJoachim-Handschriftenkatalog.pdf,–,–,,,8.67370,50.43500
+lt55,"Gotha, Forschungsbibliothek der Universität Erfurt, Cod. Chart. B 1766",1405,Unbekannt,"Gotha, Forschungsbibliothek der Universität Erfurt",‚komplett‘,15. Jh.,–,laut der Edition 1877 ‚komplett‘ (I-V?),,–,–,–,Laut Zieger verschollen,,200.00,10.48500,51.20860
+lt56,"Göttingen, Universitätsbibliothek, 8° Ms. theol. 121",1405,Unbekannt,"Göttingen, Staats- und Universitätsbibliothek","Sammelhandschrift; theol. Texte, Gerson, 
+Bonaventura, Thomas von Kempen etc.",15. Jh.,Frankreich (?),"92v: IV, 59b-d; II, 12",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0491_c046_jpg.htm,–,–,,500.00,2.74920,47.00750
+lt57,"Göttingen, Universitätsbibliothek, 8° Ms. theol. 233",1405,Unbekannt,"Göttingen, Staats- und Universitätsbibliothek","Gebetbuch mit Gebeten und Meditationen, 
+vereinzelt nd.",15. Jh.,Niederdeutschland,"368v-370v: I, 26a, b
+375r-376r: I, 47, 11
+394r-v: I, 26b
+466r: I, 23",,http://handschriftencensus.de/19145;,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0718_b443_jpg.htm,–,"Im Anschluss an den letzten TB Mechhtild 
+zugeschriebenes Gebet; Gebete nach dem 
+Jahreskreis geordnet; wohl (in)direkte 
+Abschrift von Göttingen, UB, 8° Ms. theol. 291",,175.00,10.11500,52.62930
+lt58,"Göttingen, Universitätsbibliothek, 8° Ms. theol. 291",1305,Unbekannt,"Göttingen, Staats- und Universitätsbibliothek",Gebetbuch,14. Jh. (?),Niederdeutschland,"145r-148v: I, 26a+b (innerhalb eines nicht zu MH gehörenden Textes) 
+160v-161r: I, 26b
+170v-171r: I, 26b 
+193v-194r: I, 26b",,http://handschriftencensus.de/22926,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0718_b472_jpg.htm,–,"wohl (in)direkte Vorlage von Göttingen, UB, 8° Ms. theol. 233",,175.00,10.11500,52.62930
+lt59,"Graz, Universitätsbibliothek, Cod. 851 (36/7 4°)",1430,Kartäuser,"Graz, Universitätsbibliothek","Sammelhandschrift, Predigten und Traktate",1. Hälfte 15. Jh.,Kartause Seitz,"212a-216b: II, 32, 33, 34 a+b
+292r-294r: III, 19, 18, 20, 29, 38, 39",,http://www.handschriftencensus.de/17328,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0514b_b074_jpg.htm,–,–,,,15.39340,46.30990
+lt60,"Graz, Universitätsbibliothek, , Ms. 1082 ",1305,Kartäuser,"Graz, Universitätsbibliothek",Sammelhandschrift,14. Jh.,Kartause Seitz,"2r-86v: I, 1-V, 31",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0514b_b220_jpg.htm,http://143.50.26.142/digbib/handschriften/Ms.1000-1199/Ms.1082/index.html,laut Zieger MM zugeschrieben,,,15.39340,46.30990
+lt61,"Graz, Universitätsbibliothek, , Ms. 1569",1405,Kartäuser,"Graz, Universitätsbibliothek","Sammelhandschrift, Predigten und Traktate",15. Jh.,Kartause Seitz,"80r-92r: IV, 23; I, 19e, 47; I, 46, 44, 41; III, 2, 4, 4, 4, 33; 
+IV, 25; II, 36",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0514b_b361_jpg.htm,–,TB in Katalog versehen mit „et notae miscellaneae“,,,15.39340,46.30990
+lt62,"Halle, Universitäts- und Landesbibliothek, Cod. Yc 8°6",1400,Kartäuser,"Halle, Universitäts- und Landesbibliothek","Birgitta von Schweden, Gebete ",14./15. Jh.,Kartause Erfurt,101r-109r: ?,,http://digital.bibliothek.uni-halle.de/hd/content/titleinfo/2821886 ,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0533_a117_jpg.htm,–,"Laut  McAvoy (2016), S. 75 Mechthild-Exzerpt",,,11.02680,50.96980
+lt63,"Hildesheim, Gymnasium Andreanum, Hs. 8",1380,Franziskaner,"Hildesheim, Stadtarchiv",MH als Einzeltext,3. Viertel 14. Jh.,"Hildesheim, St. Martin, Franziskaner","1r-62v: I, 6, 5, 8, 30, 21, 45; IV, 25; III, 32, 18; IV, 59; 
+III, 30, 42, 43, 23; IV, 20; III, 28; IV, 16, 17; III, 8-13,
+14 (gekürzt), 15; III, 2, 4-7; I, 36, 37, 42, 43, 46, 47; 
+II, 1, 2, 6, 7, 10, 12, 14-18, 20-23, 24 (gekürzt), 26, 
+30, 36, 37, 40-42; III, 33-39, 44; IV, 6-7, 9; V, 18, 21; 
+III, 26, 27, 21-31; V, 2; VI, 9 (gekürzt), Stück ohne 
+Nachweis; V, 5, 6 (gekürzt), 10, 11, 12 (gekürzt), 
+16, 20, 22, 23, 25, 26, 30; III, 45; II, 43",,–,http://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0057_a036_jpg.htm,–,–,,,9.94410,52.14940
+lt64,"Innsbruck, Universitätsbibliothek, Hs. 717",1475,Unbekannt,"Innsbruck, Universitäts- und Landesbibliothek","Sammelhandschrift, devotionale Texte; Ps.-Bonaventura",2. Hälfte 15. Jh.,"ursprüngliche Provenienz unbekannt; 
+später Neustift Innsbruck","I, 1a, 5b, d, 7, 11, 18a, c, 26c; III, 5, 23a, 25, 26, 27, 31, 
+35, 36; IV, 21, 23, 26, 56, 59c; V, 15, 19; I, 32, 18a, 16a
+8v und 9r: Mechthild zugeschriebene Texte",,–,"Walter Neuhauser u.a., Katalog der Handschriften der Universitäts- und 
+Landesbibliothek Tirol in Innsbruck, Teil 8: Cod. 701-800, S. 109-112.",–,–,,150.00,11.37480,47.39280
+lt65,"Karlsruhe, Badische Landesbibliothek, Aug. Pap. 36",1430,Benediktiner,"Karlsruhe, Badische Landesbibliothek",Gebetbuch,1432 (MH-Teil Ende 14. Jh./Anfang 15. Jh.),"Reichenau, Benediktiner","18r: IV, 56; V, 6; I, 18d 
+28v: I, 47 
+161r: I, 43",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0721_c061_jpg.htm,https://digital.blb-karlsruhe.de/blbhs/Handschriften/content/pageview/3514641,–,,,9.04440,47.70670
+lt66,"Koblenz, Landeshauptarchiv, Best. 701 Nr. 138",1420,Sonstiges,"Koblenz, Landeshauptarchiv",Theologisch-aszetische Sammelhandschrift,1. Viertel 15. Jh.,"Frankfurt, Karmeliter","121ra–133ra: I, la, 12, 13, 14, 5b, c, d, 7, 8b, 
+10a+b, 11, 12, 13a, 15, 16a, 18a, b, c, 
+19a, e, 20, 22a+b, 23, 24; IV, 60; III, 1;
+I, 25b, 26a, c, 34a, 29, 30, 38, 31a, 
+34b+c; III, 39; I, 35, 37, 42, 43, 44, 47; 
+II, 1, 2, 3, 10, 17, 21, 22, 25, 29a, 33, 34b, 
+40, 41; III, 2, 4 , 6a+b, 8, 10, 14, 16, 17, 18, 
+19, 20, 21, 22, 23a, 24, 25, 26, 27, 29, 31, 
+32, 33, 36, 34, 35, 44, 45, 46, 48, 50, 51; 
+IV 1, 5,7, 9, 16, 17, 23, 25, 26, 28, 30, 33, 
+36, 37, 38, 45, 47, 51, 52, 53, 58, 28, 54; V, 28; IV, 
+56, 58, 59a-d V, 1, 16, 17, 18a, 27; IV, 15; 
+V, 18b, 19, 23, 30",,http://www.handschriftencensus.de/15496,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0517_b210_jpg.htm,–,–,,,8.67810,50.10890
+lt67,"Koblenz, Landeshauptarchiv, Best. 701 Nr. 169",1390,,"Koblenz, Landeshauptarchiv","Etymachia', Matthäus von Krakau, Epistularium",1395,Heidelberg,"38v–87v: I, la, 12, 13, 14, 5b, c, d, 7, 8b, 
+10a+b, 11, 12, 13a, 15, 16a, 18a, b, c, 
+19a, e, 20, 22a+b, 23, 24; IV, 60; III, 1;
+I, 25b, 26a, c, 34a, 29, 30, 38, 31a, 
+34b+c; III, 39; I, 35, 37, 42, 43, 44, 47; 
+II, 1, 2, 3, 10, 17, 21, 22, 25, 29a, 33, 34b, 
+40, 41; III, 2, 4 , 6a+b, 8, 10, 14, 16, 17, 18, 
+19, 20, 21, 22, 23a, 24, 25, 26, 27, 29, 31, 
+32, 33, 36, 34, 35, 44, 45, 46, 48, 50, 51; 
+IV 1, 5,7, 9, 16, 17, 23, 25, 26, 28, 30, 33, 
+36, 37, 38, 45, 47, 51, 52, 53, 58, 28, 54; V, 28; IV, 
+56, 58, 59a-d V, 1, 16, 17, 18a, 27; IV, 15; 
+V, 18b, 19, 23, 30",,http://www.handschriftencensus.de/15500,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0517_b363_jpg.htm,–,–,,5.00,8.67020,49.40480
+lt68,"Köln, Historisches Archiv der Stadt, Best. 7004 (GB 4°) 37",1420,Sonstiges,"Köln, Historisches Archiv der Stadt","David von Augsburg, Heinrich Seuse, Thomas von Aquin",1. Hälfte 15. Jh. ,"Köln, Kreuzbrüderkonvent","118r: IV, 9",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0038_b024_JPG.htm,–,–,,5.00,6.95560,50.94120
+lt69,"Köln, Historisches Archiv der Stadt, Best. 7004 (GB 4°) 54",1390,Sonstiges,"Köln, Historisches Archiv der Stadt","Ps.-Augustinus, Ps.-Bernhard, Ps.-Origenes, 
+Varia ascetica",Ende 14. Jh.,"Köln, Kreuzbrüderkonvent",43r–57r: Exzerpte,,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0038_b046_JPG.htm,–,–,,5.00,6.95560,50.94120
+lt70,"Köln, Historisches Archiv der Stadt, Best. 7004 (GB 4°) 83",1480,Benediktiner,"Köln, Historisches Archiv der Stadt","David von Augsburg, Johannes Rode, Jean Gerson",3. Viertel 15. Jh.,"St. Martin, Köln, Benediktiner","133r–v: III, 29",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0038_b090_JPG.htm,–,,,,6.96130,50.93850
+lt71,"Köln, Historisches Archiv der Stadt, Best. 7004 (GB 4°) 253",1405,Sonstiges,"Köln, Historisches Archiv der Stadt",Sammelhandschrift; Viten und Mirakel,15. Jh.,"Köln, Kreuzbrüderkonvent","140r-181r:.I, la, 12, 13, 14, 5b, c, d, 7, 8b, 
+10a+b, 11, 12, 13a, 15, 16a, 18a, b, c, 
+19a, e, 20, 22a+b, 23, 24; IV, 60; III, 1;
+I, 25b, 26a, c, 34a, 29, 30, 38, 31a, 
+34b+c; III, 39; I, 35, 37, 42, 43, 44, 47; 
+II, 1, 2, 3, 10, 17, 21, 22, 25, 29a, 33, 34b, 
+40, 41; III, 2, 4 , 6a+b, 8, 10, 14, 16, 17, 18, 
+19, 20, 21, 22, 23a, 24, 25, 26, 27, 29, 31, 
+32, 33, 36, 34, 35, 44, 45, 46, 48, 50, 51; 
+IV 1, 5,7, 9, 16, 17, 23, 25, 26, 28, 30, 33, 
+36, 37, 38, 45, 47, 51, 52, 53, 58, 28, 54, 
+56, 58, 59a-d V, 1, 16, 17, 18a, 27; IV, 15; 
+V, 18b, 19, 23, 30; III, 52; IV, 6; V, 20",,–,"http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4051993
+http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0089_b043_jpg.htm",–,"Angaben nach Bromberg (dort auch mit 
+Blattangaben), ergänzt durch Zieger; 
+laut Zieger entspricht der Auszug genau 
+Namur, Hs. 160",,5.00,6.95560,50.94120
+lt72,"Köln, Historisches Archiv der Stadt, Best. 7004 (GB 4°) 257",1490,Sonstiges,"Köln, Historisches Archiv der Stadt",theol. Sammelhandschrift,um 1490,"Köln, Kreuzbrüderkonvent",Buch I-V,,–,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4051995,–,"enger Bezug zu Düsseldorf, Landes- und 
+Staatsbibl., Ms. B 193 (Kreuzherrenkonvent 
+Marienfrede)",,5.00,6.95560,50.94120
+lt73,"Köln, Historisches Archiv der Stadt, Best. 7008 (GB 8°) 55",1405,Sonstiges,"Köln, Historisches Archiv der Stadt","lat.-mndl. Sammelhandschrift; theol. Kurztexte 
+und Exzerpte",15. Jh.,"Köln, Kreuzbrüderkonvent","31r-v: IV, 59b; I, 7, 11, 17 
+49v: III, 16 (Teil)",,http://handschriftencensus.de/12999,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4052011,–,–,,5.00,6.95560,50.94120
+lt74,"Köln, Historisches Archiv der Stadt, Best. 7010 (W) 128",1520,Sonstiges,"Köln, Historisches Archiv der Stadt",‚komplett‘,1.Viertel 16 Jh.,"Köln, Karmelitenkonvent",1r–123r: I-IV ,,–,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4052095,–,–,,,6.95680,50.93050
+lt75,"Leipzig, Universitätsbibliothek, Ms 671",1320,Zisterzienser,"Leipzig, Universitätsbibliothek",MH als Einzeltext,1. Viertel 14. Jh.,"Altzelle, Zisterzienser","I, 1-VI, 9 (+ Sach- und Personenverzeichnis)",,–,–,https://digital.ub.uni-leipzig.de/mirador/index.php#edb91508-c88d-41d4-baea-f6384ea8c03e,Enthält Sach- und Personenverzeichnis,,,13.27570,51.06060
+lt76a,"Leipzig, Universitätsbibliothek, Ms 1515",1480,Kartäuser,"Leipzig, Universitätsbibliothek",Gebet- und Andachtsbuch,um  1485,"Kartause Seitz; später: Kartause 
+Freudenthal",74r–112r: Exzerpte,,–,http://www.manuscripta-mediaevalia.de/#|6,–,–,,,15.39340,46.30990
+lt76b,"Leipzig, Universitätsbibliothek, Ms 1515",1556,Kartäuser,"Leipzig, Universitätsbibliothek",Gebet- und Andachtsbuch,um 1485,"Kartause Seitz; später: Kartause 
+Freudenthal",74r–112r: Exzerpte,,–,http://www.manuscripta-mediaevalia.de/#|6,–,–,,,14.33230,45.94660
+lt77,"London, British Museum, Add. Ms. 41490",1305,Unbekannt,"Leipzig, Universitätsbibliothek",Sammelhandschrift,14. Jh.,Südfrankreich?,13va-56va: I-V (?),,–,–,–,"“Meltilde”
+aus Helfta wird “Sielpede""",,300.00,3.06450,44.98070
+lt78,"London, British Museum, Sloane Ms.  982",1405,Unbekannt,"London, British Library","Sammelhandschrift, theol. Traktate, Birgitten-Vita",15. Jh.,–,"54r-60v: I, 5c+d, 7a, 18a-d, 3, 9b, 11, 30",,–,http://hviewer.bl.uk/IamsHViewer/Default.aspx?mdark=ark:/81055/vdc_100000000040.0x00011c,–,–,,150.00,-0.99730,52.60900
+lt79,"Mainz, Stadtbibliothek, Hs. I 33",1415,Kartäuser,"Mainz, Stadtbibliothek",Theologisch-kanonistische Sammelhandschrift,1.Viertel 15. Jh. (1414),Kartause Mainz,278ra-296vb: Exzerpte,,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0088_a074_jpg.htm,–,gleicher Text wie Hs. I 158,,,8.28660,49.98870
+lt80,"Mainz, Stadtbibliothek, Hs. I 82",1490,Kartäuser,"Mainz, Stadtbibliothek",Devotionale,1490/91,Kartause Mainz,"112ra-156v; Auszüge aus den Büchern I-V; 
+dabei wohl auch Auszüge von Buch VI (Gertrud)",,http://www.handschriftencensus.de/12688,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0088_a151_jpg.htm,–,"am Rand Nachtrag mit ausgelassenen Kapiteln; 
+Eigentum und geschrieben vom Kartäuser 
+Johannes Steinbach; bei Zieger falsche 
+Blattangaben; auf f. 155 wohl Auszüge 
+von Buch VI",,,8.28660,49.98870
+lt81,"Mainz, Stadtbibliothek, Hs. I 158",1410,Kartäuser,"Mainz, Stadtbibliothek",Theologische Sammelhandschrift,1. Hälfte 15. Jh. (MH-Teil),Kartause Mainz,193r-219v: Exzerpte,,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0515_a053_jpg.htm,–,gleicher Text wie Hs. I 33,,,8.28660,49.98870
+lt82,"München, Bayerische Staatsbibliothek, Clm 2990",1460,Benediktiner,"München, Bayerische Staatsbibliothek","Sammelhandschrift; Gebete, Psalter, Kurztexte",1468,"Reichenbach, Benediktiner","56v: I, 19e",,–,http://daten.digitale-sammlungen.de/~db/bsb00008252/images/index.html?fip=193.174.98.30&seite=64&pdfseitex=,–,"vgl. Ziegers Eintrag: Hs. bei Bischoff erwähnt, da in 
+imitierender Minuskel des 12. Jh. verfasst; von 
+Bischoff aber MM zugeschrieben ",,,12.34990,49.18290
+lt83,"München, Bayerische Staatsbibliothek, Clm 7660",1455,Unbekannt,"München, Bayerische Staatsbibliothek",Sammelhandschrift; u.a. Birgitta-Exzerpte,1455,–,122r-146r,,–,http://daten.digitale-sammlungen.de/~db/bsb00008267/images/index.html?fip=193.174.98.30&seite=187&pdfseitex=,–,"laut Zieger andere Kapitelfolge; entspricht Clm 
+19827; vgl. auch Salzburg Cod. b.V.18",,200.00,11.15360,48.28970
+lt84,"München, Bayerische Staatsbibliothek, Clm 8441",1405,Unbekannt,"München, Bayerische Staatsbibliothek",‚komplett‘; MH als Haupttext,15. Jh.,–,‚komplett‘ (I-VI),,–,http://daten.digitale-sammlungen.de/~db/bsb00008215/images/index.html?fip=193.174.98.30&seite=32&pdfseitex=,–,–,,150.00,11.35130,48.42110
+lt85,"München, Bayerische Staatsbibliothek, Clm 16511",1420,Unbekannt,"München, Bayerische Staatsbibliothek",Sammelhandschrift; theol. Schriften und Traktate,1428,–,I-V (?),,–,http://daten.digitale-sammlungen.de/~db/bsb00008254/images/index.html?fip=193.174.98.30&seite=81&pdfseitex=,–,laut Zieger stark gekürzt,,200.00,10.67020,48.34810
+lt86,"München, Bayerische Staatsbibliothek, Clm 18620",1405,Benediktiner,"München, Bayerische Staatsbibliothek","Sammelhandschrift, als Haupttext Dorothea 
+von Preußen",15. Jh.,"Tegernsee, Benediktiner","167r-205v (nicht r wie bei Zieger vermerkt): II, 43; 
+V, 22, 23, 24; I, 18 (ohne b), 19c, e, 20, 25b, 26b, 
+c, 29, 30, 31a, b, 32, 34b, c, 35, 37, 41, 42, 43, 44, 
+46, 47; II 2, 12, 13, 14, 15, 17, 18, 20, 22, 29a, 32, 
+33, 36, 37, 41; III, 4, 5, 6a, b, 7, 8, 9a, b, 10, 11, 
+12, 13, 14, 16, 17, 18, 20, 23a, 24, 25, 26, 27, 29, 
+31, 32, 33, 35, 36, 38, 39, 44, 46; IV, 5, 7, 9, 15, 16, 
+22, 23, 24, 25, 26, 29, 30, 32a, 37, 38, 50, 56, 58, 
+59; V, 6, 15, 18, 28, 29
+",,–,http://daten.digitale-sammlungen.de/~db/bsb00008254/images/index.html?fip=193.174.98.30&seite=199&pdfseitex=,–,"Einleitung ähnlich wie Clm 7660, aber laut Zieger 
+andere Kapitelfolge; Schreibernennung „Oswaldus 
+Nott“; laut Bromberg viele Stücke in Gebetsform; 
+bei Zieger mit genauer Auflistung; vgl. zum 
+ähnlichen Anfang auch Cod. b.V.18",,,11.75700,47.70690
+lt87,"München, Bayerische Staatsbibliothek, Clm 19827",1405,Benediktiner,"München, Bayerische Staatsbibliothek","Sammelhandschrift; Wolfgang Kydrer, Benediktsregel, 
+Heiligenviten",15. Jh.,"Tegernsee, Benediktiner",313r-373r; größeres Exzerpt,,–,http://daten.digitale-sammlungen.de/~db/bsb00008254/images/index.html?fip=193.174.98.30&seite=285&pdfseitex=,–,entspricht laut Zieger genau Clm 7660,,,11.75700,47.70690
+lt88,"München, Bayerische Staatsbibliothek, Clm 28253",1515,Benediktiner,"München, Bayerische Staatsbibliothek","Sammelhandschrift, Visionen",1519,–,"1r-55v (Ausschnitte von I-V), 2 Zusatzkapitel",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0049_b234_jpg.htm,–,–,,,,
+lt89,"München, Universitätsbibliothek, 8° Cod. ms. 192",1405,Unbekannt,"München, Universitätsbibliothek",Orationale,Ende 15. Jh.,Frauenkloster Süddeutschland,"32r–34r: V, 19",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0091_b133_jpg.htm,–,–,,100.00,10.40640,48.94430
+lt90,"München, Universitätsbibliothek, 8° Cod. ms. 212",1490,Unbekannt,"München, Universitätsbibliothek",Horarium et orationale,4. Viertel 15. Jh.,Oberitalien (?),"127r–128v: V, 19",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0091_b140_jpg.htm,–,–,,170.00,10.48550,45.20540
+lt91,"Münster, Universitätsbibliothek, Hs. 103 (verbrannt)",1405,Benediktiner,"Münster, Universitäts- und Landesbibliothek",MH als Einzeltext (?),15 Jh.,"Liesborn, Benediktiner",Ausschnitte von I-V,,–,https://archive.org/stream/chirographorvmi00unkngoog#page/n45/mode/2up,–,"im 2. Wk verbrannt
+MH als Zisterzienserin",,,8.25940,51.71260
+lt92,"Namur, Musée Provincial des Arts anciens du 
+Namurois, Fonds de la ville 103",1405,Sonstiges,"Namur, Musée Provincial des Arts anciens du 
+Namurois","Sammelhandschrift, Theol. Texte und Servatius-Legende",15. Jh.,"Wenau, Prämonstratenser",108ra-139v,,–,"Catalogue des manuscrits conservés à Namur, S. 184f.",–,–,,,6.33690,50.78980
+lt93,"Namur, Musée Provincial des Arts anciens du 
+Namurois, Fonds de la ville 160",1480,Zisterzienser,"Namur, Musée Provincial des Arts anciens du 
+Namurois",Theol. Sammelhandschrift; auch Viten (Liutgard),1480,"Jardinet, Zisterzienser",114r-125r: Exzerpte,,–,"Catalogue des manuscrits conservés à Namur, S. 229-234",–,"laut Zieger entspricht der Auszug genau 
+Köln, Hist. Archiv, Best. 7004 (GB 4°) 253",,0.30,4.43460,50.25350
+lt94,"Osnabrück, Gymnasium Carolinum, Hs. 24",1505,Unbekannt,"Osnabrück, Gymnasium Carolinum","MH, David von Augsburg, Bonaventura",Anfang 16. Jh,–,2r–126v: I-V,,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0443_a115_jpg.htm,–,,,150.00,8.73660,52.29090
+lt95,"Oxford, Trinity College, Ms. 32",1305,Unbekannt,"Oxford, Bodleian Library","Sammelhandschrift; MH als Einzeltext mit 
+einem Druck (Ludolf von Sachsen: 
+Evangelienharmonie) zusammengebunden",14. Jh.,–,62r-126r,,–,–,–,–,,150.00,-0.76660,51.77050
+lt96,"Paris, Bibliothèque Nationale, Ms. lat 3631",1405,Unbekannt,"Paris, Bibliothèque Nationale",Sammelhandschrift (?),15. Jh.,–,1ra-74vb (I-V?),,–,–,–,"mit Inhaltsverzeichnis; 
+bei Zieger als ""MS. 3621"" bezeichnet",,250.00,3.24340,48.64300
+lt97,"Paris, Bibliothèque Nationale, Ms. lat 3632",1405,Unbekannt,"Paris, Bibliothèque Nationale",Sammelhandschrift (?),15. Jh.,–,2r-117r (I-V?),,–,–,–,–,,250.00,2.38650,48.19820
+lt98,"Salzburg, St. Peter, Cod. b.V.18",1470,Benediktiner,"Salzburg, Stiftsbibliothek St. Peter","Sammelhandschrift, Konstitutionen, Lehrtexte",15. Jh. (1470),"St. Peter, Salzburg, Benediktiner","183a-225b: II, 43; V, 22, 23, 
+danach wie Clm 7660",,–,http://manuscripta.at/m1/hs_detail.php?ID=38583,–,"Text hier MM zugeschrieben; erste 
+Kapitel richten sich nach clm 18620, 
+danach wie clm 7660 ",,,13.04440,47.79760
+lt99,"Salzburg, St. Peter, Cod. b.VII.10",1479,Benediktiner,"Salzburg, Stiftsbibliothek St. Peter","Sammelhandschrift, Gebete, Traktate, 
+E. von Admont",15. Jh. (1470)  ,"St. Peter, Salzburg, Benediktiner","106b-153b: III, 23, 17, 31, 14, 27; IV, 29; I, 19c, 1a, 5b,
+ 7, 8, 11, 18c , d, 22a, 23, 43, 46, 47,45; III, 33; II, 2, 36,
+ 37, 41; III, 2, 4, 17, 18, 23; IV, 23, 26, 23, 52, 38, 24, 
+37, 33, 56; I, 37; V, 6, 28, 19; I, 11, 13, 16, 18e, 20b, 
+32, 18c, 31, 31b; II, 32 ;III, 7; II, 18; III, 8, 9b, 10, 11, 
+13, 18, 19, 26, 29, 30, 32, 38, 39, 44, 45; IV, 15, 7, 9, 
+15, 16, 18, 54; V, 15; IV, 30; III, 35; IV, 58; II, 22, 17; 
+I, 16b, 18a, c",,–,http://manuscripta.at/m1/hs_detail.php?ID=38670,–,"Text hier MM zugeschrieben; als Exzerpte 
+gekennzeichnet; am Ende Mechthild 
+zugeschriebenes Textstück;
+Schreiber f. 182: ""frater benedictus Trauschendorfer""",,,13.04440,47.79760
+lt100a,"St. Gallen, Stiftsbibliothek, Cod. 583",1370,Sonstiges,"Sankt Gallen, Stiftsbibliothek",‚komplett‘,2./3. Viertel 14. Jh. ,"erst Minoriten, dann Dominikanerinnen","I, 1-V, 32 (variierend)",,–,https://www.e-codices.unifr.ch/en/description/csg/0583/Scarpatetti,https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0583,"früher Tauler zugeschrieben; zur Datierung vgl. Märker (2019), S. 137f., Anm. 32 ",,50.00,9.39440,47.45100
+lt100b,"St. Gallen, Stiftsbibliothek, Cod. 583",1405,Dominikaner,"Sankt Gallen, Stiftsbibliothek",‚komplett‘,15. Jh.,"erst Minoriten, dann Dominikanerinnen","I, 1-V, 32 (variierend)",,–,https://www.e-codices.unifr.ch/en/description/csg/0583/Scarpatetti,https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0583,"früher Tauler zugeschrieben; zur Datierung vgl. Märker (2019), S. 137f., Anm. 32 ",,,9.37710,47.42710
+lt101,"Straßburg, National- und Universitätsbibliothek, Ms. 2675 (früher L germ. 594.gr.8°)",1405,Unbekannt,"Strasbourg, Bibliothèque Nationale et Universitaire",Dt.-lat. Gebetbuch,15. Jh.,mittelfränkischer Sprachraum,"159r-160v: I, 47 
+260r-263r: I, 19e",,http://handschriftencensus.de/3594,"https://archive.org/stream/HandschriftenDerUlbStrassburg/DieHandschriftenDerUlbStrassburg#page/n49/mode/2up
+https://archive.org/stream/cataloguegnr47fran#page/542/mode/2up","http://gallica.bnf.fr/ark:/12148/btv1b102246389
+(Ausschnitte)",–,,150.00,8.65240,50.06760
+lt102,"Toledo, Kathedralbibliothek, Cod. 21-3.",1505,Unbekannt,"Toledo, Biblioteca Capitulares (Kathedralbibliothek)",?,16. Jh. (?),–,komplett' (I-V?),,–,https://archive.org/details/HMMLSpainChecklist/page/n193,–,–,,250.00,-3.50350,39.75480
+lt103,"Trier, Stadtbibliothek, Hs. 504/810 8°",1505,Augustiner,"Trier, Stadtbibliothek","Gebetbuch, darunter auch Birgitta",Anf. 16 Jh. ,"verm. Eberhardsklausen, Trier, 
+Augustinerchorherrenstift",37r,,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0730_b098_jpg.htm,–,nd. Schreibsprache,,,6.88340,49.90560
+lt104,"Trier, Stadtbibliothek, Hs. 631/1562 4°",1475,Benediktiner,"Trier, Stadtbibliothek","Sammelhandschrift, Predigten, theol. Traktate",3. Drittel 15. Jh.,"St. Maria ad martyres, Trier, 
+Benediktiner",131r-220v (I-V?),,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22hsk%200731%22&dmode=doc#|4,–,–,,,6.64760,49.76900
+lt105,"Trier, Stadtbibliothek, Hs. 688/250 8°",1405,Benediktiner,"Trier, Stadtbibliothek","Sammelhandschrift; Gebete, Traktate",15. Jh.,"St. Matthias, Trier, Benediktiner","14r-21v: bricht bei I, 30 ab",,–,http://www.stmatthias.uni-trier.de/?l=n&s=suche&k_id=338,http://dfg-viewer.de/show/?set[mets]=http%3A%2F%2Fzimks68.uni-trier.de%2Fstmatthias%2FT0688%2FT0688-digitalisat.xml,"bricht am Ende ab; laut Zieger bis I, 30 
+unter Beibehaltung der Reihenfolge",,,6.63200,49.73820
+lt106,"Trier, Stadtbibliothek, Hs. 695/257 8°",1460,Benediktiner,"Trier, Stadtbibliothek",MH als Einzeltext,1463,"St. Maximin, Trier, Benediktiner",3r-204r: (I-V?),,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22hsk%200732%22&dmode=doc#|4,–,–,,,6.65070,49.76010
+lt107,"Trier, Stadtbibliothek, Hs. 708/898 4°",1405,Klarissen,"Trier, Stadtbibliothek","Sammelhandschrift, u.a. theol. Texte und Seuse",15. Jh.,Klarissenkloster Trier,34r-101v: (I-V?),,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22hsk%200732%22&dmode=doc#|4,–,–,,,6.63650,49.75840
+lt108,"Trier, Stadtbibliothek, Hs. 751/299 4°",1405,Kartäuser,"Trier, Stadtbibliothek","Sammelhandschrift, Kartäuser Dominik",15. Jh.,"Kartause St. Alban, Trier",1r-68r: (I-V?),,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22hsk%200732%22&dmode=doc#|4,–,–,,0.50,6.64530,49.73790
+lt109,"Trier, Stadtbibliothek, Hs. 758/305 8°",1470,Benediktiner,"Trier, Stadtbibliothek",Sammelhs; neben MH noch der Text ‚Donatus spiritualis‘,1478,"St. Matthias, Trier, Benediktiner",1r-164v: (I-V?),,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22hsk%200732%22&dmode=doc#|4,http://dfg-viewer.de/show/?set[mets]=http%3A%2F%2Fzimks68.uni-trier.de%2Fstmatthias%2FT0758%2FT0758-digitalisat.xml,–,,,6.63200,49.73820
+lt110,"Trier, Stadtbibliothek, Hs. 776/1354 8°",1470,Augustiner,"Trier, Stadtbibliothek",Sammelhs.; neben MH Traktat Michaels von Massa,3. Drittel 15. Jh.,"Eberhardsklausen, Trier, 
+Augustinerchorherrenstift",1r-107v: (I-V?),,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22obj%2033020891%22&dmode=doc#|4,–,–,,,6.88340,49.90560
+lt111,"Trier, Stadtbibliothek, Hs. 790/1364 8°",1405,Augustiner,"Trier, Stadtbibliothek",–,15. Jh.,"Eberhardsklausen, Trier, 
+Augustinerchorherrenstift (?)","107r-v: evtl. aus I, 19c",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0732_b115_jpg.htm,–,"Text laut Zieger zwar nicht von MH, 
+kann aber aus I, 19c entwickelt sein",,,6.88340,49.90560
+lt112,"Trier, Stadtbibliothek, Hs. 800/1352 8°",1480,Kartäuser,"Trier, Stadtbibliothek","MH zuerst, nachfolgenden Texte sukzessiv ergänzt",1488,"Kartause St. Alban, Trier",1r-69r: (I-V?),,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22hsk%200732%22&dmode=doc#|4,–,Hildegard von Bingen zugeschrieben,,0.50,6.64530,49.73790
+lt113,"Trier, Stadtbibliothek, Hs. 1669/350 4°",1505,Kartäuser,"Trier, Stadtbibliothek",Sammelhandschrift,16. Jh.,Trier (Kartause St. Alban?),"58r-96v: Exzerpte (schließt mit V, 19)",,–,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22hsk%200734%22&dmode=doc#|4,–,im Katalog als ‚Dicta Mechtildis‘ beschrieben,,0.50,6.64530,49.73790
+lt114,"Uppsala, Universitätsbibliothek, C 198",1475,Sonstiges,"Uppsala, Carolina Rediviva (Universitätsbibliothek)",MH als einziger Text,15. Jh. (1472-1487),"Vadstena, Birgitten",1r-120v: (I-V?),,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0506b_a0304_jpg.htm,–,"Schreibernennung ‚frater Andreas cristmanni‘ 
+(Bei Zieger ‚custmanni‘) Andreas Kristmansson 
+war Mönch in Vadstena",,,14.89070,58.45100
+lt115,"Uppsala, Universitätsbibliothek, C 522",1480,Sonstiges,"Uppsala, Carolina Rediviva (Universitätsbibliothek)","Hs. im 15. Jh. zusammengebunden, 
+davor MH als Einzeltext",15. Jh. (nach 1476),"Vadstena, Birgitten","1r-84v: I-V, 30",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0506e_a0320_jpg.htm,–,–,,,14.89070,58.45100
+lt116,"Utrecht, Universitätsbibliothek, 3 F 14",1405,Kartäuser,"Utrecht, Universiteitsbibliotheek",MH als Einzeltext,14./Anfang 15. Jh.,Kartause bei Utrecht,1r-108v: (I-V?),,–,–,–,MH als Zisterzienserin,,4.00,5.07680,52.08970
+lt117,"Utrecht, Universitätsbibliothek, 4 G 2",1400,Benediktiner,"Utrecht, Universiteitsbibliotheek",Neben MH Eufrasia-Vita,14./15. Jh.,"St. Paul, Utrecht, Benediktiner",1r-125r: Exzerpte,,–,–,–,–,,,5.12310,52.08930
+lt118,"Vorau, Stiftsbibliothek, Cod. 166",1405,Unbekannt,"Vorau, Stiftsbibliothek",Sammelhandschrift,15. Jh.,–,164a-195a: Exzerpte,,–,http://manuscripta.at/diglit/fank/0104?sid=b8fae0fa922b9b35ae633baed4200161,–,–,,100.00,15.67830,47.37900
+lt119,"Weingarten, Klosterbibliothek, K 118 12°",,Unbekannt,"Weingarten, Klosterbibliothek",MH als Einzeltext (?),–,–,–,,–,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/1069529,–,–,,80.00,9.61480,47.94950
+lt120,"Wien, Österreichisxhe Nationalbibliothek, Cod. 13795",1455,Sonstiges,"Wien, Österreichische Nationalbibliothek","Sammelhandschrift; Viten, MH und Margareta contracta",15. Jh. (1451),"Böddeken (bei Paderborn), Chorherrenstift",2a-77b: (I-V?),,–,"
+http://manuscripta.at/m1/hs_detail.php?ID=6894
+",–,–,,,8.68340,51.60020
+lt121,"Wien, Österreichisxhe Nationalbibliothek, Cod. 4224",1485,Benediktiner,"Wien, Österreichische Nationalbibliothek","Sammelhandschrift; Visionen, darunter Birgitta, 
+Katharina, Hildegard etc.",1483/1490,"Werden/Donauwörth (?), Benediktiner",2ra-82vb: (I-V?),,–,http://manuscripta.at/_scripts/php/cat2pdf.php?cat=CMDA3&ms_code=AT8500-4224,–,"mit Inhaltsverzeichnis und Register;
+Schreiber ‚Michael Steinbrunner‘",,,10.77410,48.71910
+lt129,"Wolfenbüttel, Herzog August Bibliothek, Cod. 422 Helmst.",1445,Benediktiner,"Wolfenbüttel, Herzog August Bibliothek","Sammelhandschrift (Konrad von Brundelsheim, Gerard van Vliederhoven, Dietrich Engelhus)",ca. 1445 (MH-Teil),"Clus, Benediktiner (MH-Teil)","107rb: V, 16",,https://handschriftencensus.de/17108,https://diglib.hab.de/?db=mss&list=ms&id=422-helmst&catalog=Lesser&hi=hackeborn; http://diglib.hab.de/drucke/15-4f-10-1b-1/start.htm,https://diglib.hab.de/mss/422-helmst/start.htm,"der erste Teil der Hs. wurde 1409 in Erfurt verfasst; MH-Abschnitt auch in Berlin, Ms. theol. lat. oct. 176",lt17,,10.01200,51.88410
+lt122,"Wolfenbüttel, Herzog August Bibliothek, Cod. 1003 Helmst.",1370,Benediktiner,"Wolfenbüttel, Herzog August Bibliothek",‚komplett‘,1370,"Erfurt, St. Peter und Paul, Benediktiner","I-VII (aber ohne Buch VI der Edition, stattdessen wurde 
+Buch VI der Handschrift in der Edition zu Buch VII)   
+zusätzlich 203v-204r: I, 43 (steht zwischen anderen 
+Gebeten)",,–,http://diglib.hab.de/drucke/15-4f-10-1b-3/start.htm,–,"Textgrundlage der Solesmer Edition; zur Provenienz vgl. Eifler (2019), S. 318f.
+",,,11.02110,50.97880
+lt123,"Wolfenbüttel, Herzog August Bibliothek, Cod. 1261 Helmst.",1400,Unbekannt,"Wolfenbüttel, Herzog August Bibliothek",nd.-lat. Gebetbuch,14./15. Jh.,niederdeutsches Kloster,"98r-99v: I, 47",,http://handschriftencensus.de/16941;,http://diglib.hab.de/drucke/15-4f-10-1b-3/start.htm,–,–,,200.00,10.50820,52.69280
+lt124,"Wolfenbüttel, Herzog August Bibliothek, Cod. 1387 Helmst.",1520,Augustiner,"Wolfenbüttel, Herzog August Bibliothek","Lat. Gebetbuch, vereinzelt nd.",1520,"Stift Steterburg, Augustiner-Chorfrauen","27r: I, 5b (Abschnitt)
+ 28v: I, 5d (Abschnitt)
+ 113r-v: V, 6 (Abschnitt) 
+181r: I, 18c (Abschnitt); in allen vier Exzerpten lediglich Gebete",,http://handschriftencensus.de/17229,http://diglib.hab.de/drucke/15-4f-10-1b-3/start.htm,–,–,,,10.47400,52.19360
+lt125,"Wolfenbüttel, Herzog August Bibliothek, Cod. 1405 Helmst.",1575,Zisterzienser,"Wolfenbüttel, Herzog August Bibliothek",Gebetbuch,1572,"Wöltingerode, Zisterzienserinnen","30v: I, 5b (Teil)
+106r: I, 19e
+162r: I, 26b (aber mit Ergänzungen nicht von MH)",,–,http://diglib.hab.de/drucke/15-4f-10-1b-3/start.htm,–,–,,,10.53880,51.95950
+lt126,"Wolfenbüttel, Herzog August Bibliothek, Cod.  62.17  8° Aug.",1470,Unbekannt,"Wolfenbüttel, Herzog August Bibliothek","Nicolaus Salicetus, Antidotarius animae; darin einige 
+Gebtstexte, u.a. MH",15. Jh.,Norddeutschland (aufgrund der niederdeutschen Gebete); Diözese Hildesheim (?) ,"56v: IV, 56 (2. Absatz); V, 6 (1. Teil)",,–,http://diglib.hab.de/drucke/f4f-539-8/start.htm,–,ähnlicher Einbandstempel wie Cod. Guelf. 1155 Helmst. und Cod. Guelf. 1183 Helmst.,,50.00,10.78960,53.09540
+lt127a,"Würzburg, Universitätsbibliothek, M. ch. q. 170",1475,Kartäuser,"Würzburg, Universitätsbibliothek","Sammelhandschrift; MH als Haupttext, danach dt. Texte",2. Hälfte 15. Jh.,"Kartause (Rest unleserlich, Erfurt?); vermutlich 
+Ostmitteldeutschland; später Kartause Engelgarten (Würzburg)","2r-137v: (hier aber nach V, 30 noch V, 31); insgesamt 
+stark abweichend, anscheinend aber auch Kapitel aus 
+Buch VI",,http://handschriftencensus.de/17430,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0243_b173_jpg.htm,–,"Kapitel V, 31 passt eig. nicht zur Gruppe B; 
+Text aus Ostmitteldeutschland",,10.00,11.02700,50.97100
+lt127b,"Würzburg, Universitätsbibliothek, M. ch. q. 170",1630,Kartäuser,"Würzburg, Universitätsbibliothek","Sammelhandschrift; MH als Haupttext, danach dt. Texte",2. Hälfte 15. Jh.,"Kartause (Rest unleserlich, Erfurt?); vermutlich 
+Ostmitteldeutschland; später Kartause Engelgarten (Würzburg)","2r-137v: (hier aber nach V, 30 noch V, 31); insgesamt 
+stark abweichend, anscheinend aber auch Kapitel aus 
+Buch VI",,http://handschriftencensus.de/17430,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0243_b173_jpg.htm,–,"Kapitel V, 31 passt eig. nicht zur Gruppe B; 
+Text aus Ostmitteldeutschland",lt127a,,10.01270,49.82650
+lt128,Privatbesitz Auktionshaus Salloch (1970),1525,Unbekannt,,unbekannt,1528,–,wsl. Buch I-V,,–,–,–,Verbleib unbekannt,,,,
