@@ -55,7 +55,7 @@ Your pull request will be reviewed and once it has been approved, your changes w
 
 In case you are not familiar with GitHub, but want to inform the authors of this project about missing, outdated, or incorrect information, you can send a message to the following email address:
 
-[mailto:linus.ubl@mod-langs.ox.ac.uk](linus.ubl@mod-langs.ox.ac.uk)
+[linus.ubl@mod-langs.ox.ac.uk](mailto:linus.ubl@mod-langs.ox.ac.uk)
 
 ## Usage of this data
 
